@@ -219,4 +219,4 @@ Also at peek times assign elevators to some floors instead of assigning all elev
 i. e divide the floors into zones,  
  each zone will be provided elevators = elevators / number of zones
 
-For example : say 200 floors and 100 elevators, so number of zones = 4 divide floors to 5 zones. each zone will have 25 elevators.
+For example : say 200 floors and 100 elevators, so number of zones = 4, each zone will have 25 elevators.
